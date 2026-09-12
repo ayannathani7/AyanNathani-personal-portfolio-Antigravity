@@ -1,0 +1,12 @@
+AYAN NATHANI - CURRICULUM VITAE / RESUME INSTRUCTIONS
+=========================================================
+
+To use your actual resume:
+1. Save your completed resume as a PDF file named "resume.pdf".
+2. Place it right here in this "resume/" folder (replacing or adding to this directory).
+3. The "Download Resume" buttons on the website will immediately download your real resume!
+
+Contact info configured:
+- Name: Ayan Nathani
+- Role: 3rd Semester Diploma Student & Web Developer
+- Email: ayannathani7@gmail.com
